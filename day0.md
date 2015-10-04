@@ -1,11 +1,7 @@
-### Monktoberfest 2015: 
-## Day 0
+## Monktoberfest 2015: Day 0
 
-#### Location: 
-### Portland, ME
-
-#### Date: 
-### 20150930
+#### Location: Portland, ME
+#### Date: 20150930
 
 I arrived via train in the historic city of Portland (the First Portland, as they say around here) in the mid afternoon. It was raining and blustery out and made for a grey but very beautifully dramatic landscape as is the norm for New England. I hopped in the first Uber I could grab and made my way to my hotel. After checking-in, fielding some worked getting settled, I meander my way through the Old Port area to the Casco Bay Lines for the event of the evening; The Monktoberfest Harbor Cruise mixer. 
 
