@@ -15,22 +15,31 @@ After the cruise various groups peeled off in search of some food and more conve
 
 #### Date: 20151001
 The next morning, after a healthy breakfast of bacon, eggs and more bacon, I made my way to the main event at the Portaln Public Library. From there I met more folks and re-met folks from the previous evening. The presentation line up was as follows: 
-- [Justin Sheehy](https://twitter.com/justinsheehy): Just Another Privileged Impostor 
+- [Justin Sheehy](https://twitter.com/justinsheehy): Just Another Privileged Impostor
+  * Very interesting discussion on privilege and diversity
 - [Rafe Colburn](https://twitter.com/rafeco): Management is Not About Sorting Apples
+  * This one hit home with it's discussion about errors, blame, and how to learn from mistakes when developing
 - [Brady Murray](https://twitter.com/bradymurray): (Un)social Networks
+  * Great presentation on the sad truths of social networks and their likeness to echo-chambers
 - KellyAnn Fitzpatrick: Dungeons and Towers: Medievalism, Gaming, and the Academy
+  * Awesomes discussion incorporating D&D, Tolkein and History. Tickled my geek-bone for sure.
 - [Luis Villa](https://twitter.com/tieguy): Constraints on Very Open Systems
+  * Really great comparisons to historical events and the development of the Wikipedia
 - [Peter Busque](https://twitter.com/busquep1): Here's What You Don't Know About the Hop Market
+  * This made me want to invest all my money in the beer industry
 
-Of these amazing speakers, the ones that resonated with me most were Rafe's, which highlighted the importance of blameless post-mortems in development, and Luis's talk on Very Open Systems. These two talks seemed very applicable to the development we do at Topcoder. 
+Of these amazing speakers, the ones that resonated with me most were Rafe's, which highlighted the importance of blameless post-mortems in development, and Luis's talk on Very Open Systems. These two talks seemed very applicable to the development we do at Topcoder. When performing a post-mortem, comparing the reality of a situation up with the perceived reality (at the time) of the people involved is really important. Done in a blameless, open fashion, it lends to learning from mistakes quickly and putting controls in place so those issues don't arise again. To paraphrase, pretty much no one goes into work today and says "let me drop all these database tables". The Very Open Systems talk had some great take aways such as "see and allow silver linings", "monitor carefully", and "lean on the cultural when you can’t lean on the technical". These points I think apply to Topcoder and the very open system that is our community.  
 
-After the sessions we all convened at the [Oxbow Blending & Bottling](http://oxbowbeer.com/tasting-rooms/portland-blending-bottling/) tasting room for dinner, beers and more informal conversations on practically everything. 
+After the sessions we all convened at the [Oxbow Blending & Bottling](http://oxbowbeer.com/tasting-rooms/portland-blending-bottling/) tasting room for dinner, beers and more informal conversations on practically everything. It was a great night filled with great conversations and meeting more new folks.
 
 #### Date: 20151002
 The second day's line up conisted of:
 - [Samatha Ready](https://twitter.com/samantha_ready): Recipe for Change: 5 ingredients to get ideas to stick
+  * Great presentation on about ideas, developer communities and providing value
 - [Laura Ku](https://twitter.com/pku2319): Building a Volunteer Legion for a Diversity Initiative
+  * Interesting lessons learned from trying trying to drive a diversity agenda 
 - [Owen Zanzal](https://twitter.com/AgentO3): Homebrew Ops-Adding Automation & Control to the Hobby of Homebrewing
+  * This one was seriously awesome. [Homebrew automation for everyone!](https://github.com/open-homebrewing-project)
 
 One thing that's so great about this format for a conference is that your free to have real, meaningful conversations. You can geek out and discuss technology and you're not worried about selling something or being sold to, as you would at most industry events. In this format you can develop real relationships with people doing amazing things and truly _learn_ something. 
 
