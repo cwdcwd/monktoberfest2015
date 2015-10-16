@@ -24,9 +24,13 @@ The next morning, after a healthy breakfast of bacon, eggs and more bacon, I mad
 
 Of these amazing speakers, the ones that resonated with me most were Rafe's, which highlighted the importance of blameless post-mortems in development, and Luis's talk on Very Open Systems. These two talks seemed very applicable to the development we do at Topcoder. 
 
-After the sessions we all convened at the [Oxbow Blending & Bottling](http://oxbowbeer.com/tasting-rooms/portland-blending-bottling/) tasting room for dinner, beers and more informal conversations on practically everything. One thing that's so great about this format for a conference is that your free to have real conversations and you're not worried about selling something or being sold to, as you would at most industry events. 
+After the sessions we all convened at the [Oxbow Blending & Bottling](http://oxbowbeer.com/tasting-rooms/portland-blending-bottling/) tasting room for dinner, beers and more informal conversations on practically everything. 
 
 #### Date: 20151002
+The second day's line up conisted of:
+- [Samatha Ready](https://twitter.com/samantha_ready): Recipe for Change: 5 ingredients to get ideas to stick
+- [Laura Ku](https://twitter.com/pku2319): Building a Volunteer Legion for a Diversity Initiative
+- [Owen Zanzal](https://twitter.com/AgentO3): Homebrew Ops-Adding Automation & Control to the Hobby of Homebrewing
 
-
+One thing that's so great about this format for a conference is that your free to have real, meaningful conversations. You can geek out and discuss technology and you're not worried about selling something or being sold to, as you would at most industry events. In this format you can develop real relationships with people doing amazing things and truly _learn_ something. 
 
