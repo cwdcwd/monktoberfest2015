@@ -1,4 +1,4 @@
-## Monktoberfest 2015: Day 0
+## The Monktoberfest 2015: A Brief Recap
 
 #### Location: Portland, ME
 #### Date: 20150930
